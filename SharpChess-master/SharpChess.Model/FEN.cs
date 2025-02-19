@@ -52,6 +52,7 @@ namespace SharpChess.Model
             }
         }
 
+
         #endregion
 
         #region Public Methods
@@ -817,8 +818,8 @@ namespace SharpChess.Model
             {
                 return " " + Game.MoveHistory.Last.From.FileName
                        + ((Game.MoveHistory.Last.Piece.Player.Colour == Player.PlayerColourNames.White) ? "3 " : "6 ");
-                    
-                    // The case between From and To
+
+                // The case between From and To
             }
 
             return " - "; // There is not en passant target square

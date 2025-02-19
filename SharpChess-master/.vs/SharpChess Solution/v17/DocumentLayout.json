@@ -1,45 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\",
+  "WorkspaceRootPath": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|c:\\users\\trevor hicks\\desktop\\neumont college\\fourth year\\winter 24-25\\software projects in existing code\\chessproject\\sharpchess-master\\sharpchess.model\\ai\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\ai\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|c:\\users\\trevor hicks\\desktop\\neumont college\\fourth year\\winter 24-25\\software projects in existing code\\chessproject\\sharpchess-master\\sharpchess.model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5FD2F27-6DCB-453C-B018-0AC8D4BC4109}|SharpChess Game\\SharpChess.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\sharpchess game\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5FD2F27-6DCB-453C-B018-0AC8D4BC4109}|SharpChess Game\\SharpChess.csproj|solutionrelative:sharpchess game\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\sharpchess.model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\sharpchess.model\\playerwhite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\playerwhite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\sharpchess.model\\playerblack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\sharpchess.model\\playerblack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\playerblack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\sharpchess.model\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\sharpchess.model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|c:\\users\\trevor hicks\\desktop\\neumont college\\fourth year\\winter 24-25\\software projects in existing code\\chessproject\\chessproject\\sharpchess-master\\sharpchess.model\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|c:\\users\\trevor hicks\\desktop\\neumont college\\fourth year\\winter 24-25\\software projects in existing code\\chessproject\\chessproject\\sharpchess-master\\sharpchess.model\\fen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\fen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FD2F27-6DCB-453C-B018-0AC8D4BC4109}|SharpChess Game\\SharpChess.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\sharpchess game\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5FD2F27-6DCB-453C-B018-0AC8D4BC4109}|SharpChess Game\\SharpChess.csproj|solutionrelative:sharpchess game\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\sharpchess.model\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\sharpchess.model\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|c:\\users\\trevor hicks\\desktop\\neumont college\\fourth year\\winter 24-25\\software projects in existing code\\chessproject\\chessproject\\sharpchess-master\\sharpchess.model\\ai\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\ai\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\sharpchess.model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\sharpchess.model\\playerwhite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\playerwhite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\sharpchess.model\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\sharpchess.model\\winboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\sharpchess.model\\winboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\winboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\sharpchess.model\\pgntoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\sharpchess.model\\pgntoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE301A37-33A9-4B7A-BE08-D001057610CD}|SharpChess.Model\\SharpChess.Model.csproj|solutionrelative:sharpchess.model\\pgntoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,32 +58,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "frmMain.cs",
-              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess Game\\Forms\\frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess Game\\Forms\\frmMain.cs",
               "RelativeDocumentMoniker": "SharpChess Game\\Forms\\frmMain.cs",
-              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess Game\\Forms\\frmMain.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess Game\\Forms\\frmMain.cs",
               "RelativeToolTip": "SharpChess Game\\Forms\\frmMain.cs",
-              "ViewState": "AgIAALEKAAAAAAAAAAAAANkKAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACoIAAAAAAAAAAAywEwIAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T00:25:43.944Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "test.cs",
-              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\AI\\test.cs",
-              "RelativeDocumentMoniker": "SharpChess.Model\\AI\\test.cs",
-              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\AI\\test.cs",
-              "RelativeToolTip": "SharpChess.Model\\AI\\test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T01:23:40.487Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -88,11 +84,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\Move.cs",
+              "RelativeDocumentMoniker": "SharpChess.Model\\Move.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\Move.cs",
+              "RelativeToolTip": "SharpChess.Model\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:46:43.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FEN.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\FEN.cs",
+              "RelativeDocumentMoniker": "SharpChess.Model\\FEN.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\FEN.cs",
+              "RelativeToolTip": "SharpChess.Model\\FEN.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:29:15.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\AI\\test.cs",
+              "RelativeDocumentMoniker": "SharpChess.Model\\AI\\test.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\AI\\test.cs",
+              "RelativeToolTip": "SharpChess.Model\\AI\\test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:23:40.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Piece.cs",
-              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\Piece.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\Piece.cs",
               "RelativeDocumentMoniker": "SharpChess.Model\\Piece.cs",
-              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\Piece.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\Piece.cs",
               "RelativeToolTip": "SharpChess.Model\\Piece.cs",
               "ViewState": "AgIAAL0CAAAAAAAAAAAwwOoCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "WinBoard.cs",
-              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\WinBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\WinBoard.cs",
               "RelativeDocumentMoniker": "SharpChess.Model\\WinBoard.cs",
-              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\WinBoard.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\WinBoard.cs",
               "RelativeToolTip": "SharpChess.Model\\WinBoard.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAywFoAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,11 +147,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "PGNtoXML.cs",
-              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\PGNtoXML.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\PGNtoXML.cs",
               "RelativeDocumentMoniker": "SharpChess.Model\\PGNtoXML.cs",
-              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\PGNtoXML.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\PGNtoXML.cs",
               "RelativeToolTip": "SharpChess.Model\\PGNtoXML.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,23 +159,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "PlayerBlack.cs",
-              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\PlayerBlack.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\PlayerBlack.cs",
               "RelativeDocumentMoniker": "SharpChess.Model\\PlayerBlack.cs",
-              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\PlayerBlack.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\PlayerBlack.cs",
               "RelativeToolTip": "SharpChess.Model\\PlayerBlack.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAADwv5EAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:39:52.986Z"
+              "WhenOpened": "2025-02-18T23:39:52.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "PlayerWhite.cs",
-              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\PlayerWhite.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\PlayerWhite.cs",
               "RelativeDocumentMoniker": "SharpChess.Model\\PlayerWhite.cs",
-              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\PlayerWhite.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\PlayerWhite.cs",
               "RelativeToolTip": "SharpChess.Model\\PlayerWhite.cs",
               "ViewState": "AgIAAI4AAAAAAAAAAAAmwK0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,40 +184,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Board.cs",
-              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\Board.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\Board.cs",
               "RelativeDocumentMoniker": "SharpChess.Model\\Board.cs",
-              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\Board.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\Board.cs",
               "RelativeToolTip": "SharpChess.Model\\Board.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAgwHwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAHsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:37:58.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\Player.cs",
-              "RelativeDocumentMoniker": "SharpChess.Model\\Player.cs",
-              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\Player.cs",
-              "RelativeToolTip": "SharpChess.Model\\Player.cs",
-              "ViewState": "AgIAAAYCAAAAAAAAAAAIwCsCAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:37:12.077Z",
+              "WhenOpened": "2025-02-18T23:37:58.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\Game.cs",
-              "RelativeDocumentMoniker": "SharpChess.Model\\Game.cs",
-              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\SharpChess-master\\SharpChess.Model\\Game.cs",
-              "RelativeToolTip": "SharpChess.Model\\Game.cs",
-              "ViewState": "AgIAAOMCAAAAAAAAAAAIwAsDAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\Player.cs",
+              "RelativeDocumentMoniker": "SharpChess.Model\\Player.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\Player.cs",
+              "RelativeToolTip": "SharpChess.Model\\Player.cs",
+              "ViewState": "AgIAAAYCAAAAAAAAAAAIwCsCAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:35:12.312Z"
+              "WhenOpened": "2025-02-18T23:37:12.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\Game.cs",
+              "RelativeDocumentMoniker": "SharpChess.Model\\Game.cs",
+              "ToolTip": "C:\\Users\\Trevor Hicks\\Desktop\\Neumont College\\Fourth year\\Winter 24-25\\SOFTWARE PROJECTS IN EXISTING CODE\\ChessProject\\ChessProject\\SharpChess-master\\SharpChess.Model\\Game.cs",
+              "RelativeToolTip": "SharpChess.Model\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:35:12.312Z",
+              "EditorCaption": ""
             }
           ]
         },

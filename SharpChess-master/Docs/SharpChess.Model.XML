@@ -4170,17 +4170,6 @@
               Gets the sum of the player's piece value.
             </summary>
         </member>
-        <member name="M:SharpChess.Model.Player.CanClaimMoveRepetitionDraw(System.Int32)">
-            <summary>
-            The can claim move repetition draw.
-            </summary>
-            <param name="numberOfMoves">
-            The no of moves.
-            </param>
-            <returns>
-            True if, can claim move repetition draw.
-            </returns>
-        </member>
         <member name="M:SharpChess.Model.Player.CaptureAllPieces">
             <summary>
             The capture all pieces.
