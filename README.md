@@ -1,6 +1,6 @@
 # SharpChess
 
-![Chess Logo](https://raw.githubusercontent.com/phoenixgoldz/ChessProject/main/assets/chessbanner.jpg)
+![Chess Logo](/chessbanner.jpg)
 
 ## Overview
 SharpChess is a C#-based chess application designed for casual and competitive play. It features a customizable UI, AI opponents, and online play support.
@@ -19,15 +19,6 @@ SharpChess is a C#-based chess application designed for casual and competitive p
 2. **Extract** the ZIP file.
 3. **Run `SharpChess.exe`** to start playing.
 
-## Screenshots
-### 🎮 Standard Gameplay
-![Gameplay Screenshot](https://raw.githubusercontent.com/phoenixgoldz/ChessProject/main/assets/screenshots/gameplay.png)
-
-### 🔀 Chess960 Mode
-![Chess960 Screenshot](https://raw.githubusercontent.com/phoenixgoldz/ChessProject/main/assets/screenshots/chess960.png)
-
-### 🔍 Move Analysis
-![Move Analysis Screenshot](https://raw.githubusercontent.com/phoenixgoldz/ChessProject/main/assets/screenshots/move-analysis.png)
 
 ## Development Setup
 ### 🔧 Requirements
