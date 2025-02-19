@@ -11,6 +11,7 @@ SharpChess is a C#-based chess application designed for casual and competitive p
 - 🔄 **Undo/Redo Moves** – Analyze and refine your gameplay.
 - 🌐 **Online Multiplayer Support** – Challenge players worldwide.
 - 📊 **Move Analysis** – Get insights on your gameplay.
+- ♜ **New: Chess960 (Fischer Random Chess)** – Play with randomized starting positions while maintaining standard chess rules.
 
 ## Installation
 ### 🖥️ Windows
@@ -18,12 +19,6 @@ SharpChess is a C#-based chess application designed for casual and competitive p
 2. **Extract** the ZIP file.
 3. **Run `SharpChess.exe`** to start playing.
 
-## Screenshots
-### 🎮 Gameplay
-![Gameplay Screenshot](https://your-image-url.com/gameplay.png)
-
-### 🔍 Move Analysis
-![Move Analysis Screenshot](https://your-image-url.com/move-analysis.png)
 
 ## Development Setup
 ### 🔧 Requirements
@@ -49,8 +44,3 @@ SharpChess is a C#-based chess application designed for casual and competitive p
 
 ## License
 📝 This project is licensed under the **MIT License**.
-
-## Contact
-📧 Email: your-email@example.com  
-🌍 Website: [your-website.com](https://your-website.com)
-
