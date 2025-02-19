@@ -1,6 +1,6 @@
 # SharpChess
 
-![Chess Logo](https://your-image-url.com/logo.png)
+![Chess Logo](/chessbanner.jpg)
 
 ## Overview
 SharpChess is a C#-based chess application designed for casual and competitive play. It features a customizable UI, AI opponents, and online play support.
